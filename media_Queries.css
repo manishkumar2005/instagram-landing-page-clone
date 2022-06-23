@@ -16,7 +16,7 @@
 
 @media(max-width:35em){
     .grid{
-        grid-template-columns: 50em;
+        grid-template-columns: 1fr;
        
     }
     .right-top,
