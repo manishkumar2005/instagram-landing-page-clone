@@ -30,3 +30,19 @@
     }
 
 }
+@media(max-width:20em){
+    .grid{
+        grid-template-columns: 1fr;
+       
+    }
+    .right-top,
+    .right-bottom{
+        background-color: #fafafa;
+        border: none;
+        border-radius: 0;
+    }
+    footer{
+        display: none;
+    }
+
+}
