@@ -1,0 +1,32 @@
+
+@media(max-width:50em){
+    .left{
+      display: none;
+    }
+    .grid{
+        grid-template-columns: 35rem;
+    }
+    .right{
+        margin: auto;
+        min-width: 35rem;
+    }
+
+  
+  }
+
+@media(max-width:35em){
+    .grid{
+        grid-template-columns: 50em;
+       
+    }
+    .right-top,
+    .right-bottom{
+        background-color: #fafafa;
+        border: none;
+        border-radius: 0;
+    }
+    footer{
+        display: none;
+    }
+
+}
