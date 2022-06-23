@@ -40,7 +40,7 @@
     .margin-auto{
         width: 20em;
         margin: auto;
-        padding-left: 100px;
+        padding-left: 10em;
     }
     footer{
         display: none;
