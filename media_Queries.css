@@ -64,6 +64,13 @@
       .divider{
         width: 80%;
       }
+          header{
+        /* width: 60rem !important; */
+        width: 100%;
+        /* margin: 0 auto; */
+       
+      
+    }
 
 }
 
